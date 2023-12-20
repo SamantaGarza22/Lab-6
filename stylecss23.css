@@ -1,0 +1,55 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12ch;
+  font-weight: 1200;
+  line-height: 90%;
+  color: rgb(3, 2, 3);
+  align-content: right;
+}
+img {
+  float: left;
+}
+div {
+  align-items: center;
+}
+nav li {
+  display: inline;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  font-family: Arial, Helvetica, sans-serif;
+}
+nav a {
+  text-decoration: none;
+  color: #000;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4ch;
+  font-weight: 1900;
+  line-height: 80%;
+  color: rgb(95, 5, 53);
+  align-items: baseline;
+}
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4ch;
+  font-weight: 1900;
+  line-height: 80%;
+  color: deeppink;
+  align-items: baseline;
+}
+nav ul {
+  list-style-type: none;
+}
+nav li {
+  display: inline;
+}
+
+h3 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 4ch;
+  font-weight: 1900;
+  line-height: 80%;
+  color: rgb(95, 5, 53);
+  align-items: baseline;
+}
